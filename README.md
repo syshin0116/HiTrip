@@ -2,8 +2,9 @@
 
 ## Spring + Django (ML) + Tkinter(이미지분류, 챗봇)
 
+Project Context:
 
-<img width="100%" alt="image" src="https://user-images.githubusercontent.com/99532836/210289543-d6ba431a-a33b-4c6c-8422-f117d34d633b.png">
+<img width="100%" alt="image" src="https://user-images.githubusercontent.com/99532836/210291499-cfb1bfbf-72fa-494f-a93c-19c3674a80fe.png">
 
 Project Brief:
 
